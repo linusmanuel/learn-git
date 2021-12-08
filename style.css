@@ -21,3 +21,13 @@ ul {
   padding: 20px;
   color: darkblue;
 }
+
+.section-welcome {
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.heading-1 {
+  font-size: 50px;
+}
